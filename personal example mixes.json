@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1753767527637,
+    "name": "sleep",
+    "date": "2025-07-29T05:38:47.637Z",
+    "mix": {
+      "cannabinoid-CBN": 20,
+      "cannabinoid-CBD": 20,
+      "cannabinoid-THC": 40,
+      "terpene-alpha-Terpinene": 5,
+      "terpene-beta-Myrcene": 5,
+      "terpene-Linalool": 5,
+      "terpene-Terpinolene": 5
+    }
+  },
+  {
+    "id": 1753933905363,
+    "name": "pure euphoria",
+    "date": "2025-07-31T03:51:45.363Z",
+    "mix": {
+      "cannabinoid-THC": 50,
+      "terpene-Terpinolene": 30
+    }
+  },
+  {
+    "id": 1753938680534,
+    "name": "curio gut",
+    "date": "2025-07-31T05:11:20.534Z",
+    "mix": {
+      "cannabinoid-CBG": 75,
+      "cannabinoid-CBD": 30,
+      "cannabinoid-THC": 1.7
+    }
+  }
+]
